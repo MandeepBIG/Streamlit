@@ -5,8 +5,8 @@ from streamlit_oauth import OAuth2Component
 
 # --- 1. GOOGLE SSO CONFIGURATION ---
 # In production, move these to .streamlit/secrets.toml
-CLIENT_ID = "936071945406-udvc62h3ne5ruur0rdda8mvaq7gt58rg.apps.googleusercontent.com"
-CLIENT_SECRET = "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"
+CLIENT_ID = "936071content.com"
+CLIENT_SECRET = "GOCSPX-CLbKjn-5"
 AUTHORIZE_URL = "https://accounts.google.com/o/oauth2/v2/auth"
 TOKEN_URL = "https://oauth2.googleapis.com/token"
 REVOKE_URL = "https://oauth2.googleapis.com/revoke"
